@@ -1,0 +1,1277 @@
+<?xml version="1.0"?>
+<dblpperson name="Xavier D&#233;fago" n="87">
+<person key="homepages/d/XavierDefago" mdate="2007-07-21">
+<author>Xavier D&#233;fago</author>
+<url>http://www.jaist.ac.jp/~defago/</url>
+</person>
+<r><inproceedings key="conf/icdcn/HeribanDT18" mdate="2018-01-14">
+<author>Adam Heriban</author>
+<author>Xavier D&#233;fago</author>
+<author>S&#233;bastien Tixeuil</author>
+<title>Optimally Gathering Two Robots.</title>
+<pages>3:1-3:10</pages>
+<year>2018</year>
+<booktitle>ICDCN</booktitle>
+<ee>http://doi.acm.org/10.1145/3154273.3154323</ee>
+<crossref>conf/icdcn/2018</crossref>
+<url>db/conf/icdcn/icdcn2018.html#HeribanDT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sirocco/0001BDN17" mdate="2018-01-02">
+<author>Fran&#231;ois Bonnet 0001</author>
+<author>Quentin Bramas</author>
+<author>Xavier D&#233;fago</author>
+<author>Thanh Dang Nguyen</author>
+<title>Killing Nodes as a Countermeasure to Virus Expansion.</title>
+<pages>227-243</pages>
+<year>2017</year>
+<booktitle>SIROCCO</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-72050-0_14</ee>
+<crossref>conf/sirocco/2017</crossref>
+<url>db/conf/sirocco/sirocco2017.html#0001BDN17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-06183" mdate="2017-09-05">
+<author>Adam Heriban</author>
+<author>Xavier D&#233;fago</author>
+<author>S&#233;bastien Tixeuil</author>
+<title>Optimally Gathering Two Robots.</title>
+<year>2017</year>
+<volume>abs/1708.06183</volume>
+<journal>CoRR</journal>
+<ee>http://arxiv.org/abs/1708.06183</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-06183</url>
+</article>
+</r>
+<r><article key="journals/tcs/BonnetDNP16" mdate="2017-10-18">
+<author>Fran&#231;ois Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author orcid="0000-0002-9844-9345">Thanh Dang Nguyen</author>
+<author>Maria Potop-Butucaru</author>
+<title>Tight bound on mobile Byzantine Agreement.</title>
+<pages>361-373</pages>
+<year>2016</year>
+<volume>609</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2015.10.019</ee>
+<url>db/journals/tcs/tcs609.html#BonnetDNP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/sss/CanepaDIP16" mdate="2017-05-25">
+<author>Davide Canepa</author>
+<author>Xavier D&#233;fago</author>
+<author>Taisuke Izumi</author>
+<author>Maria Potop-Butucaru</author>
+<title>Flocking with Oblivious Robots.</title>
+<pages>94-108</pages>
+<year>2016</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49259-9_8</ee>
+<crossref>conf/sss/2016</crossref>
+<url>db/conf/sss/sss2016.html#CanepaDIP16</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Defago16" mdate="2017-07-12">
+<author>Xavier D&#233;fago</author>
+<title>Atomic Broadcast.</title>
+<pages>155-160</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_37</ee>
+<url>db/reference/algo/algo2016.html#Defago16</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Defago16a" mdate="2017-07-12">
+<author>Xavier D&#233;fago</author>
+<title>Causal Order, Logical Clocks, State Machine Replication.</title>
+<pages>283-286</pages>
+<year>2016</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-2864-4_65</ee>
+<url>db/reference/algo/algo2016.html#Defago16a</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/DefagoP0MPP16" mdate="2017-06-07">
+<author>Xavier D&#233;fago</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Julien Cl&#233;ment 0002</author>
+<author>St&#233;phane Messika</author>
+<author>Philippe Raipin Parv&#233;dy</author>
+<title>Fault and Byzantine Tolerant Self-stabilizing Mobile Robots Gathering - Feasibility Study -.</title>
+<year>2016</year>
+<volume>abs/1602.05546</volume>
+<journal>CoRR</journal>
+<ee>http://arxiv.org/abs/1602.05546</ee>
+<url>db/journals/corr/corr1602.html#DefagoP0MPP16</url>
+</article>
+</r>
+<r><article key="journals/scp/PhamDH15" mdate="2017-06-08">
+<author>Thanh-Trung Pham</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Quyet-Thang Huynh</author>
+<title>Reliability prediction for component-based software systems: Dealing with concurrent and propagating errors.</title>
+<pages>426-457</pages>
+<year>2015</year>
+<volume>97</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2014.03.016</ee>
+<url>db/journals/scp/scp97.html#PhamDH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/srds/MaurerTD15" mdate="2017-06-05">
+<author>Alexandre Maurer</author>
+<author>S&#233;bastien Tixeuil</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Communicating Reliably in Multihop Dynamic Networks Despite Byzantine Failures.</title>
+<pages>238-245</pages>
+<year>2015</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2015.10</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDS.2015.10</ee>
+<crossref>conf/srds/2015</crossref>
+<url>db/conf/srds/srds2015.html#MaurerTD15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jowua/PhamBD14" mdate="2017-10-18">
+<author>Thanh-Trung Pham</author>
+<author>Fran&#231;ois Bonnet 0001</author>
+<author>Xavier D&#233;fago</author>
+<title>Reliability Prediction for Component-based Software Systems with Architectural-level Fault Tolerance Mechanisms (Extended Version).</title>
+<pages>4-36</pages>
+<year>2014</year>
+<volume>5</volume>
+<journal>JoWUA</journal>
+<number>1</number>
+<ee>http://isyou.info/jowua/papers/jowua-v5n1-1.pdf</ee>
+<url>db/journals/jowua/jowua5.html#PhamBD14</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic-nc/DAngeloDN14" mdate="2017-06-02">
+<author orcid="0000-0003-0377-7037">Gianlorenzo D'Angelo</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Nicolas Nisse</author>
+<title>Understanding the Power of Stigmergy of Anonymous Agents in Discrete Environments.</title>
+<pages>50-59</pages>
+<year>2014</year>
+<booktitle>CANDAR</booktitle>
+<ee>https://doi.org/10.1109/CANDAR.2014.95</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CANDAR.2014.95</ee>
+<crossref>conf/ic-nc/2014</crossref>
+<url>db/conf/ic-nc/candar2014.html#DAngeloDN14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/NguyenBD14" mdate="2017-10-18">
+<author>Thanh Dang Nguyen</author>
+<author>Fran&#231;ois Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Mitigating the Spread of a Virus in the Internet.</title>
+<pages>14-19</pages>
+<year>2014</year>
+<booktitle>SRDS Workshops</booktitle>
+<ee>https://doi.org/10.1109/SRDSW.2014.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDSW.2014.26</ee>
+<crossref>conf/srds/2014w</crossref>
+<url>db/conf/srds/srds2014w.html#NguyenBD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/BonnetDPPT14" mdate="2017-10-18">
+<author>Fran&#231;ois Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Franck Petit</author>
+<author>Maria Potop-Butucaru</author>
+<author>S&#233;bastien Tixeuil</author>
+<title>Discovering and Assessing Fine-Grained Metrics in Robot Networks Protocols.</title>
+<pages>50-59</pages>
+<year>2014</year>
+<booktitle>SRDS Workshops</booktitle>
+<ee>https://doi.org/10.1109/SRDSW.2014.34</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDSW.2014.34</ee>
+<crossref>conf/srds/2014w</crossref>
+<url>db/conf/srds/srds2014w.html#BonnetDPPT14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/BonnetDNP14" mdate="2017-10-18">
+<author>Fran&#231;ois Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Thanh Dang Nguyen</author>
+<author>Maria Potop-Butucaru</author>
+<title>Tight Bound on Mobile Byzantine Agreement.</title>
+<pages>76-90</pages>
+<year>2014</year>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-45174-8_6</ee>
+<crossref>conf/wdag/2014</crossref>
+<url>db/conf/wdag/disc2014.html#BonnetDNP14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MaurerTD14" mdate="2017-06-07">
+<author>Alexandre Maurer</author>
+<author>S&#233;bastien Tixeuil</author>
+<author>Xavier D&#233;fago</author>
+<title>Reliable Communication in a Dynamic Network in the Presence of Byzantine Faults.</title>
+<year>2014</year>
+<volume>abs/1402.0121</volume>
+<journal>CoRR</journal>
+<ee>http://arxiv.org/abs/1402.0121</ee>
+<url>db/journals/corr/corr1402.html#MaurerTD14</url>
+</article>
+</r>
+<r><article key="journals/tcs/DefagoPV13" mdate="2017-06-08">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Franck Petit</author>
+<author>Vincent Villain</author>
+<title>Preface.</title>
+<pages>1</pages>
+<year>2013</year>
+<volume>512</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2013.10.027</ee>
+<url>db/journals/tcs/tcs512.html#DefagoPV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/PhamD13" mdate="2017-05-29">
+<author>Thanh-Trung Pham</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Reliability Prediction for Component-Based Software Systems with Architectural-Level Fault Tolerance Mechanisms.</title>
+<pages>11-20</pages>
+<year>2013</year>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2013.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ARES.2013.8</ee>
+<crossref>conf/IEEEares/2013</crossref>
+<url>db/conf/IEEEares/ares2013.html#PhamD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic-nc/HigashiharaD13" mdate="2017-05-24">
+<author>Daiki Higashihara</author>
+<author>Xavier D&#233;fago</author>
+<title>Decreasing the Locks by Isolating the Concurrent Execution in Microprotocol Framework.</title>
+<pages>247-251</pages>
+<year>2013</year>
+<booktitle>CANDAR</booktitle>
+<ee>https://doi.org/10.1109/CANDAR.2013.43</ee>
+<crossref>conf/ic-nc/2013</crossref>
+<url>db/conf/ic-nc/candar2013.html#HigashiharaD13</url>
+</inproceedings>
+</r>
+<r><article key="journals/siamcomp/IzumiSKIDWY12" mdate="2017-06-08">
+<author>Taisuke Izumi</author>
+<author>Samia Souissi</author>
+<author>Yoshiaki Katayama</author>
+<author>Nobuhiro Inuzuka</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Koichi Wada</author>
+<author>Masafumi Yamashita</author>
+<title>The Gathering Problem for Two Oblivious Robots with Unreliable Compasses.</title>
+<pages>26-46</pages>
+<year>2012</year>
+<volume>41</volume>
+<journal>SIAM J. Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1137/100797916</ee>
+<url>db/journals/siamcomp/siamcomp41.html#IzumiSKIDWY12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/BernardDT12" mdate="2017-05-29">
+<author>Samuel Bernard</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>S&#233;bastien Tixeuil</author>
+<title>A Fast and Robust Optimistic Total Order Broadcast for Online Video Games.</title>
+<pages>189-196</pages>
+<year>2012</year>
+<booktitle>AINA Workshops</booktitle>
+<ee>https://doi.org/10.1109/WAINA.2012.105</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAINA.2012.105</ee>
+<crossref>conf/aina/2012w</crossref>
+<url>db/conf/aina/ainaw2012.html#BernardDT12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/qsic/PhamD12" mdate="2017-06-05">
+<author>Thanh-Trung Pham</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Reliability Prediction for Component-Based Systems: Incorporating Error Propagation Analysis and Different Execution Models.</title>
+<pages>106-115</pages>
+<year>2012</year>
+<booktitle>QSIC</booktitle>
+<ee>https://doi.org/10.1109/QSIC.2012.20</ee>
+<crossref>conf/qsic/2012</crossref>
+<url>db/conf/qsic/qsic2012.html#PhamD12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/BonnetDPPT12" mdate="2017-10-18">
+<author>Fran&#231;ois Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Franck Petit</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>S&#233;bastien Tixeuil</author>
+<title>Brief Announcement: Discovering and Assessing Fine-Grained Metrics in Robot Networks Protocols.</title>
+<pages>282-284</pages>
+<year>2012</year>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-33536-5_28</ee>
+<crossref>conf/sss/2012</crossref>
+<url>db/conf/sss/sss2012.html#BonnetDPPT12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/YangSDT11" mdate="2017-06-06">
+<author>Yan Yang</author>
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Makoto Takizawa</author>
+<title>Fault-tolerant flocking for a group of autonomous mobile robots.</title>
+<pages>29-36</pages>
+<year>2011</year>
+<volume>84</volume>
+<journal>Journal of Systems and Software</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.jss.2010.08.026</ee>
+<url>db/journals/jss/jss84.html#YangSDT11</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic-nc/BonnetD11" mdate="2017-10-18">
+<author>Fran&#231;ois Bonnet 0001</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Exploration and Surveillance in Multi-robots Networks.</title>
+<pages>342-344</pages>
+<year>2011</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC.2011.66</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICNC.2011.66</ee>
+<crossref>conf/ic-nc/2011</crossref>
+<url>db/conf/ic-nc/ic-nc2011.html#BonnetD11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sss/2011" mdate="2017-06-05">
+<editor orcid="0000-0002-2377-205X">Xavier D&#233;fago</editor>
+<editor>Franck Petit</editor>
+<editor>Vincent Villain</editor>
+<title>Stabilization, Safety, and Security of Distributed Systems - 13th International Symposium, SSS 2011, Grenoble, France, October 10-12, 2011. Proceedings</title>
+<volume>6976</volume>
+<year>2011</year>
+<publisher>Springer</publisher>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<ee>https://doi.org/10.1007/978-3-642-24550-3</ee>
+<isbn>978-3-642-24549-7</isbn>
+<booktitle>SSS</booktitle>
+<url>db/conf/sss/sss2011.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1105-4082" mdate="2017-06-07">
+<author>Davide Canepa</author>
+<author>Xavier D&#233;fago</author>
+<author>Taisuke Izumi</author>
+<author>Maria Potop-Butucaru</author>
+<title>Emergent velocity agreement in robot networks</title>
+<ee>http://arxiv.org/abs/1105.4082</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1105.4082</volume>
+<url>db/journals/corr/corr1105.html#abs-1105-4082</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1111-1492" mdate="2017-06-07">
+<author>Taisuke Izumi</author>
+<author>Samia Souissi</author>
+<author>Yoshiaki Katayama</author>
+<author>Nobuhiro Inuzuka</author>
+<author>Xavier D&#233;fago</author>
+<author>Koichi Wada</author>
+<author>Masafumi Yamashita</author>
+<title>The Gathering Problem for Two Oblivious Robots with Unreliable Compasses</title>
+<ee>http://arxiv.org/abs/1111.1492</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1111.1492</volume>
+<url>db/journals/corr/corr1111.html#abs-1111-1492</url>
+</article>
+</r>
+<r><article key="journals/ipl/ClementDPIM10" mdate="2017-06-06">
+<author>Julien Cl&#233;ment 0002</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>Taisuke Izumi</author>
+<author>St&#233;phane Messika</author>
+<title>The cost of probabilistic agreement in oblivious robot networks.</title>
+<pages>431-438</pages>
+<year>2010</year>
+<volume>110</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1016/j.ipl.2010.04.006</ee>
+<url>db/journals/ipl/ipl110.html#ClementDPIM10</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1011-2312" mdate="2017-06-07">
+<author>Emmanuelle Anceaume</author>
+<author>Xavier D&#233;fago</author>
+<author>Maria Potop-Butucaru</author>
+<author>Matthieu Roy</author>
+<title>A framework for proving the self-organization of dynamic systems</title>
+<ee>http://arxiv.org/abs/1011.2312</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1011.2312</volume>
+<url>db/journals/corr/corr1011.html#abs-1011-2312</url>
+</article>
+</r>
+<r><article key="journals/taas/SouissiDY09" mdate="2017-06-08">
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Masafumi Yamashita</author>
+<title>Using eventually consistent compasses to gather memory-less mobile robots with limited visibility.</title>
+<year>2009</year>
+<volume>4</volume>
+<journal>TAAS</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/1462187.1462196</ee>
+<url>db/journals/taas/taas4.html#SouissiDY09</url>
+<pages>9:1-9:27</pages>
+</article>
+</r>
+<r><inproceedings key="conf/aina/YangSDT09" mdate="2017-06-01">
+<author>Yan Yang</author>
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Makoto Takizawa</author>
+<title>Fault-Tolerant Flocking of Mobile Robots with Whole Formation Rotation.</title>
+<pages>830-837</pages>
+<year>2009</year>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2009.104</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2009.104</ee>
+<crossref>conf/aina/2009</crossref>
+<url>db/conf/aina/aina2009.html#YangSDT09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nbis/YangDT09" mdate="2017-06-04">
+<author>Yan Yang</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Makoto Takizawa</author>
+<title>Self-stabilized Flocking of a Group of Mobile Robots under Memory Corruption.</title>
+<pages>532-538</pages>
+<year>2009</year>
+<booktitle>NBiS</booktitle>
+<ee>https://doi.org/10.1109/NBiS.2009.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NBiS.2009.60</ee>
+<crossref>conf/nbis/2009</crossref>
+<url>db/conf/nbis/nbis2009.html#YangDT09</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieicet/SunYDI08" mdate="2017-06-06">
+<author>Wei Sun 0004</author>
+<author>Chen Yu</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yasushi Inoguchi</author>
+<title>Dynamic Scheduling Real-Time Task Using Primary-Backup Overloading Strategy for Multiprocessor Systems.</title>
+<pages>796-806</pages>
+<year>2008</year>
+<volume>91-D</volume>
+<journal>IEICE Transactions</journal>
+<number>3</number>
+<ee>https://doi.org/10.1093/ietisy/e91-d.3.796</ee>
+<url>db/journals/ieicet/ieicet91d.html#SunYDI08</url>
+</article>
+</r>
+<r><article key="journals/mcs/XiongYYDH08" mdate="2017-06-06">
+<author>Naixue Xiong</author>
+<author>Laurence Tianruo Yang</author>
+<author>Yan Yang</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yanxiang He</author>
+<title>A novel numerical algorithm based on self-tuning controller to support TCP flows.</title>
+<pages>1178-1188</pages>
+<year>2008</year>
+<volume>79</volume>
+<journal>Mathematics and Computers in Simulation</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.matcom.2007.10.001</ee>
+<url>db/journals/mcs/mcs79.html#XiongYYDH08</url>
+</article>
+</r>
+<r><article key="journals/tcs/DefagoS08" mdate="2017-06-08">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Samia Souissi</author>
+<title>Non-uniform circle formation algorithm for oblivious mobile robots with convergence toward uniformity.</title>
+<pages>97-112</pages>
+<year>2008</year>
+<volume>396</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1016/j.tcs.2008.01.050</ee>
+<url>db/journals/tcs/tcs396.html#DefagoS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/gpc/YangXCD08" mdate="2017-06-02">
+<author>Yan Yang</author>
+<author>Naixue Xiong</author>
+<author>Nak Young Chong</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>A Decentralized and Adaptive Flocking Algorithm for Autonomous Mobile Robots.</title>
+<pages>262-268</pages>
+<year>2008</year>
+<booktitle>GPC Workshops</booktitle>
+<ee>https://doi.org/10.1109/GPC.WORKSHOPS.2008.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/GPC.WORKSHOPS.2008.18</ee>
+<crossref>conf/gpc/2008w</crossref>
+<url>db/conf/gpc/gpc2008w.html#YangXCD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/SouissiYD08" mdate="2017-06-05">
+<author>Samia Souissi</author>
+<author>Yan Yang</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Fault-Tolerant Flocking in a k-Bounded Asynchronous System.</title>
+<pages>145-163</pages>
+<year>2008</year>
+<booktitle>OPODIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-92221-6_11</ee>
+<crossref>conf/opodis/2008</crossref>
+<url>db/conf/opodis/opodis2008.html#SouissiYD08</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Defago08" mdate="2017-07-12">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Atomic Broadcast.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-30162-4_37</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Defago08</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/algo/Defago08a" mdate="2017-07-12">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Causal Order, Logical Clocks, State Machine Replication.</title>
+<year>2008</year>
+<booktitle>Encyclopedia of Algorithms</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-30162-4_65</ee>
+<crossref>reference/algo/2008</crossref>
+<url>db/reference/algo/algo2008.html#Defago08a</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0807-1753" mdate="2017-06-07">
+<author>Julien Cl&#233;ment 0002</author>
+<author>Xavier D&#233;fago</author>
+<author>Maria Gradinariu Potop-Butucaru</author>
+<author>St&#233;phane Messika</author>
+<title>The cost of probabilistic gathering in oblivious robot networks</title>
+<ee>http://arxiv.org/abs/0807.1753</ee>
+<year>2008</year>
+<journal>CoRR</journal>
+<volume>abs/0807.1753</volume>
+<url>db/journals/corr/corr0807.html#abs-0807-1753</url>
+</article>
+</r>
+<r><article key="journals/jnw/YaredDIW07" mdate="2017-06-06">
+<author>Rami Yared</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Julien Iguchi-Cartigny</author>
+<author>Matthias Wiesmann</author>
+<title>Collision Prevention Platform for a Dynamic Group of Asynchronous Cooperative Mobile Robots.</title>
+<pages>28-39</pages>
+<year>2007</year>
+<volume>2</volume>
+<journal>JNW</journal>
+<number>4</number>
+<ee>https://doi.org/10.4304/jnw.2.4.28-39</ee>
+<url>db/journals/jnw/jnw2.html#YaredDIW07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/YaredDW07" mdate="2017-06-01">
+<author>Rami Yared</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Matthias Wiesmann</author>
+<title>Collision prevention using group communication for asynchronous cooperative mobile robots.</title>
+<pages>244-249</pages>
+<year>2007</year>
+<crossref>conf/aina/2007</crossref>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2007.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2007.44</ee>
+<url>db/conf/aina/aina2007.html#YaredDW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/WiesmannD07" mdate="2017-06-01">
+<author>Matthias Wiesmann</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Anonymous Stabilizing Leader Election using a Network Sequencer.</title>
+<pages>673-678</pages>
+<year>2007</year>
+<crossref>conf/aina/2007</crossref>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2007.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2007.38</ee>
+<url>db/conf/aina/aina2007.html#WiesmannD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsrt/0004YZDI07" mdate="2017-06-02">
+<author>Wei Sun 0004</author>
+<author>Chen Yu</author>
+<author>Yuanyuan Zhang</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yasushi Inoguchi</author>
+<title>Real-time Task Scheduling Using Extended Overloading Technique for Multiprocessor Systems.</title>
+<pages>95-102</pages>
+<year>2007</year>
+<booktitle>DS-RT</booktitle>
+<ee>https://doi.org/10.1109/DS-RT.2007.12</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DS-RT.2007.12</ee>
+<crossref>conf/dsrt/2007</crossref>
+<url>db/conf/dsrt/dsrt2007.html#0004YZDI07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isads/YaredCDW07" mdate="2017-06-04">
+<author>Rami Yared</author>
+<author>Julien Cartigny</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Matthias Wiesmann</author>
+<title>Locality-preserving distributed path reservation protocol for asynchronous cooperative mobile robots.</title>
+<pages>188-195</pages>
+<year>2007</year>
+<booktitle>ISADS</booktitle>
+<ee>https://doi.org/10.1109/ISADS.2007.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ISADS.2007.44</ee>
+<crossref>conf/isads/2007</crossref>
+<url>db/conf/isads/isads2007.html#YaredCDW07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/XiongYD07" mdate="2017-06-05">
+<author>Naixue Xiong</author>
+<author>Yan Yang</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Comparative Analysis of QoS and Memory Usage of Adaptive Failure Detectors.</title>
+<pages>27-34</pages>
+<year>2007</year>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2007.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2007.60</ee>
+<crossref>conf/prdc/2007</crossref>
+<url>db/conf/prdc/prdc2007.html#XiongYD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ro-man/LeeCD07" mdate="2017-06-05">
+<author>Geunho Lee</author>
+<author>Nak Young Chong</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Robust Self-Deployment for a Swarm of Autonomous Mobile Robots with Limited Visibility Range.</title>
+<pages>925-930</pages>
+<year>2007</year>
+<booktitle>RO-MAN</booktitle>
+<ee>https://doi.org/10.1109/ROMAN.2007.4415216</ee>
+<crossref>conf/ro-man/2007</crossref>
+<url>db/conf/ro-man/ro-man2007.html#LeeCD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocomm/YamashitaSD07" mdate="2017-06-05">
+<author>Masafumi Yamashita</author>
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>Gathering two stateless mobile robots using very inaccurate compasses in finite time.</title>
+<pages>48</pages>
+<year>2007</year>
+<booktitle>ROBOCOMM</booktitle>
+<ee>https://doi.org/10.4108/ICST.ROBOCOMM2007.2199</ee>
+<ee>http://doi.acm.org/10.1145/1377868.1377927</ee>
+<crossref>conf/robocomm/2007</crossref>
+<url>db/conf/robocomm/robocomm2007.html#YamashitaSD07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/SunZYDI07" mdate="2017-06-05">
+<author>Wei Sun 0004</author>
+<author>Yuanyuan Zhang</author>
+<author>Chen Yu</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yasushi Inoguchi</author>
+<title>Hybrid Overloading and Stochastic Analysis for Redundant Real-time Multiprocessor Systems.</title>
+<pages>265-274</pages>
+<year>2007</year>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2007.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDS.2007.11</ee>
+<crossref>conf/srds/2007</crossref>
+<url>db/conf/srds/srds2007.html#SunZYDI07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/XiongDJYH06" mdate="2017-06-04">
+<author>Naixue Xiong</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author orcid="0000-0001-8702-8302">Xiaohua Jia</author>
+<author>Yan Yang</author>
+<author>Yanxiang He</author>
+<title>Design and Analysis of a Self-Tuning Proportional and Integral Controller for Active Queue Management Routers to Support TCP Flows.</title>
+<year>2006</year>
+<crossref>conf/infocom/2006</crossref>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFOCOM.2006.189</ee>
+<url>db/conf/infocom/infocom2006.html#XiongDJYH06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/SouissiDY06" mdate="2017-06-05">
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Masafumi Yamashita</author>
+<title>Gathering Asynchronous Mobile Robots with Inaccurate Compasses.</title>
+<pages>333-349</pages>
+<year>2006</year>
+<crossref>conf/opodis/2006</crossref>
+<booktitle>OPODIS</booktitle>
+<ee>https://doi.org/10.1007/11945529_24</ee>
+<url>db/conf/opodis/opodis2006.html#SouissiDY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/WiesmannD06" mdate="2017-06-05">
+<author>Matthias Wiesmann</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>End-to-end consensus using end-to-end channels.</title>
+<pages>341-350</pages>
+<year>2006</year>
+<crossref>conf/prdc/2006</crossref>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2006.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2006.32</ee>
+<url>db/conf/prdc/prdc2006.html#WiesmannD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/WiesmannUD06" mdate="2017-06-05">
+<author>Matthias Wiesmann</author>
+<author>P&#233;ter Urb&#225;n</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>An SNMP based failure detection service.</title>
+<pages>365-376</pages>
+<year>2006</year>
+<crossref>conf/srds/2006</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/SRDS.2006.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SRDS.2006.9</ee>
+<url>db/conf/srds/srds2006.html#WiesmannUD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sss/SouissiDY06" mdate="2017-06-05">
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Masafumi Yamashita</author>
+<title>Using Eventually Consistent Compasses to Gather Oblivious Mobile Robots with Limited Visibility.</title>
+<pages>484-500</pages>
+<year>2006</year>
+<crossref>conf/sss/2006</crossref>
+<booktitle>SSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-49823-0_34</ee>
+<url>db/conf/sss/sss2006.html#SouissiDY06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/DefagoGMP06" mdate="2017-06-05">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Maria Gradinariu</author>
+<author>St&#233;phane Messika</author>
+<author>Philippe Raipin Parv&#233;dy</author>
+<title>Fault-Tolerant and Self-stabilizing Mobile Robots Gathering.</title>
+<pages>46-60</pages>
+<year>2006</year>
+<crossref>conf/wdag/2006</crossref>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/11864219_4</ee>
+<url>db/conf/wdag/disc2006.html#DefagoGMP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aina/YaredDK05" mdate="2017-06-01">
+<author>Rami Yared</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Takuya Katayama</author>
+<title>Fault-Tolerant Group Membership Protocols Using Physical Robot Messengers.</title>
+<pages>921-926</pages>
+<year>2005</year>
+<crossref>conf/aina/2005</crossref>
+<booktitle>AINA</booktitle>
+<ee>https://doi.org/10.1109/AINA.2005.187</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AINA.2005.187</ee>
+<url>db/conf/aina/aina2005.html#YaredDK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/HayashibaraDTK05" mdate="2017-06-02">
+<author>Naohiro Hayashibara</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Makoto Takizawa</author>
+<author>Takuya Katayama</author>
+<title>Information Propagation on the phi Failure Detector.</title>
+<pages>72-76</pages>
+<year>2005</year>
+<crossref>conf/dexaw/2005</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2005.119</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2005.119</ee>
+<url>db/conf/dexaw/dexaw2005.html#HayashibaraDTK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/DefagoUHK05" mdate="2017-06-02">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>P&#233;ter Urb&#225;n</author>
+<author>Naohiro Hayashibara</author>
+<author>Takuya Katayama</author>
+<title>Definition and Specification of Accrual Failure Detectors.</title>
+<pages>206-215</pages>
+<year>2005</year>
+<crossref>conf/dsn/2005</crossref>
+<booktitle>DSN</booktitle>
+<ee>https://doi.org/10.1109/DSN.2005.37</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSN.2005.37</ee>
+<url>db/conf/dsn/dsn2005.html#DefagoUHK05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/HeXDYH05" mdate="2017-06-02">
+<author>Yanxiang He</author>
+<author>Naixue Xiong</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yan Yang</author>
+<author>Jing He</author>
+<title>A Single-Pass Online Data Mining Algorithm Combined with Control Theory with Limited Memory in Dynamic Data Streams.</title>
+<pages>1119-1130</pages>
+<year>2005</year>
+<crossref>conf/gcc/2005</crossref>
+<booktitle>GCC</booktitle>
+<ee>https://doi.org/10.1007/11590354_134</ee>
+<url>db/conf/gcc/gcc2005.html#HeXDYH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/npc/XiongDHY05" mdate="2017-06-05">
+<author>Naixue Xiong</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yanxiang He</author>
+<author>Yan Yang</author>
+<title>A Resource-Based Server Performance Control for Grid Computing Systems.</title>
+<pages>56-64</pages>
+<year>2005</year>
+<crossref>conf/npc/2005</crossref>
+<booktitle>NPC</booktitle>
+<ee>https://doi.org/10.1007/11577188_8</ee>
+<url>db/conf/npc/npc2005.html#XiongDHY05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/opodis/AnceaumeDGR05" mdate="2017-06-05">
+<author>Emmanuelle Anceaume</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Maria Gradinariu</author>
+<author>Matthieu Roy</author>
+<title>Towards a Theory of Self-organization.</title>
+<pages>191-205</pages>
+<year>2005</year>
+<crossref>conf/opodis/2005</crossref>
+<booktitle>OPODIS</booktitle>
+<ee>https://doi.org/10.1007/11795490_16</ee>
+<url>db/conf/opodis/opodis2005.html#AnceaumeDGR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdcat/QuSD05" mdate="2017-06-05">
+<author>Wenyu Qu</author>
+<author>Hong Shen</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<title>A Survey of Mobile Agent-Based Fault-Tolerant Technology.</title>
+<pages>446-450</pages>
+<year>2005</year>
+<crossref>conf/pdcat/2005</crossref>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT.2005.53</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDCAT.2005.53</ee>
+<url>db/conf/pdcat/pdcat2005.html#QuSD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdcat/ZhangSDS05" mdate="2017-06-05">
+<author>Zonghua Zhang</author>
+<author>Hong Shen</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yingpeng Sang</author>
+<title>A Brief Comparative Study on Analytical Models of Computer System Dependability and Security.</title>
+<pages>493-497</pages>
+<year>2005</year>
+<crossref>conf/pdcat/2005</crossref>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT.2005.1</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDCAT.2005.1</ee>
+<url>db/conf/pdcat/pdcat2005.html#ZhangSDS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pdcat/XiongYDH05" mdate="2017-06-05">
+<author>Naixue Xiong</author>
+<author>Yan Yang</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Yanxiang He</author>
+<title>LRC-RED: A Self-tuning Robust and Adaptive AQM Scheme.</title>
+<pages>655-659</pages>
+<year>2005</year>
+<crossref>conf/pdcat/2005</crossref>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT.2005.165</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PDCAT.2005.165</ee>
+<url>db/conf/pdcat/pdcat2005.html#XiongYDH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdag/AnceaumeDGR05" mdate="2017-06-05">
+<author>Emmanuelle Anceaume</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Maria Gradinariu</author>
+<author>Matthieu Roy</author>
+<title>Towards a Theory of Self-organization.</title>
+<pages>505-506</pages>
+<year>2005</year>
+<crossref>conf/wdag/2005</crossref>
+<booktitle>DISC</booktitle>
+<ee>https://doi.org/10.1007/11561927_43</ee>
+<url>db/conf/wdag/disc2005.html#AnceaumeDGR05</url>
+</inproceedings>
+</r>
+<r><article key="journals/csur/DefagoSU04" mdate="2017-06-05">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<author>P&#233;ter Urb&#225;n</author>
+<title>Total order broadcast and multicast algorithms: Taxonomy and survey.</title>
+<pages>372-421</pages>
+<year>2004</year>
+<volume>36</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>4</number>
+<ee>http://doi.acm.org/10.1145/1041680.1041682</ee>
+<url>db/journals/csur/csur36.html#DefagoSU04</url>
+</article>
+</r>
+<r><article key="journals/jpdc/DefagoS04" mdate="2017-06-06">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Semi-passive replication and Lazy Consensus.</title>
+<pages>1380-1398</pages>
+<year>2004</year>
+<volume>64</volume>
+<journal>J. Parallel Distrib. Comput.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1016/j.jpdc.2004.08.006</ee>
+<url>db/journals/jpdc/jpdc64.html#DefagoS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/HassineDH04" mdate="2017-06-01">
+<author>Ahlem Ben Hassine</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Tu Bao Ho</author>
+<title>Agent-Based Approach to Dynamic Meeting Scheduling Problems.</title>
+<pages>1132-1139</pages>
+<year>2004</year>
+<crossref>conf/atal/2004</crossref>
+<booktitle>AAMAS</booktitle>
+<ee>http://doi.ieeecomputersociety.org/10.1109/AAMAS.2004.10268</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1018882</ee>
+<url>db/conf/atal/aamas2004-3.html#HassineDH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcsw/SouissiDK04" mdate="2017-06-04">
+<author>Samia Souissi</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Takuya Katayama</author>
+<title>Decomposition of Fundamental Problems for Cooperative Autonomous Mobile Systems.</title>
+<pages>554-560</pages>
+<year>2004</year>
+<crossref>conf/icdcsw/2004</crossref>
+<booktitle>ICDCS Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICDCSW.2004.1284087</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDCSW.2004.1284087</ee>
+<url>db/conf/icdcsw/icdcsw2004.html#SouissiDK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lsgrid/SatouNTDK04" mdate="2017-06-04">
+<author>Kenji Satou</author>
+<author>Yasuhiko Nakashima</author>
+<author>Shin'ichi Tsuji</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Akihiko Konagaya</author>
+<title>An Integrated System for Distributed Bioinformatics Environment on Grids.</title>
+<pages>8-19</pages>
+<ee>https://doi.org/10.1007/978-3-540-32251-1_2</ee>
+<year>2004</year>
+<crossref>conf/lsgrid/2004</crossref>
+<booktitle>LSGRID</booktitle>
+<url>db/conf/lsgrid/lsgrid2004.html#SatouNTDK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/HayashibaraDYK04" mdate="2017-06-05">
+<author>Naohiro Hayashibara</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Rami Yared</author>
+<author>Takuya Katayama</author>
+<title>The &#934; Accrual Failure Detector.</title>
+<pages>66-78</pages>
+<year>2004</year>
+<crossref>conf/srds/2004</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2004.1353004</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RELDIS.2004.1353004</ee>
+<url>db/conf/srds/srds2004.html#HayashibaraDYK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nca/WiesmannDS03" mdate="2017-06-04">
+<author>Matthias Wiesmann</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Group Communication based on Standard Interfaces.</title>
+<pages>140-147</pages>
+<year>2003</year>
+<crossref>conf/nca/2003</crossref>
+<booktitle>NCA</booktitle>
+<ee>https://doi.org/10.1109/NCA.2003.1201148</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NCA.2003.1201148</ee>
+<url>db/conf/nca/nca2003.html#WiesmannDS03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jise/UrbanDS02" mdate="2007-10-24">
+<author>P&#233;ter Urb&#225;n</author>
+<author>Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Neko: A Single Environment to Simulate and Prototype Distributed Algorithms.</title>
+<pages>981-997</pages>
+<year>2002</year>
+<volume>18</volume>
+<journal>J. Inf. Sci. Eng.</journal>
+<number>6</number>
+<ee>http://www.iis.sinica.edu.tw/page/jise/2002/200211_07.html</ee>
+<url>db/journals/jise/jise18.html#UrbanDS02</url>
+</article>
+</r>
+<r><inproceedings key="conf/pomc/DefagoK02" mdate="2017-06-05">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Akihiko Konagaya</author>
+<title>Circle formation for oblivious anonymous mobile robots with no common sense of orientation.</title>
+<pages>97-104</pages>
+<year>2002</year>
+<crossref>conf/pomc/2002</crossref>
+<booktitle>POMC</booktitle>
+<ee>http://doi.acm.org/10.1145/584490.584509</ee>
+<url>db/conf/pomc/pomc2002.html#DefagoK02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/Charron-BostDS02" mdate="2017-06-05">
+<author>Bernadette Charron-Bost</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Broadcasting Messages in Fault-Tolerant Distributed Systems: The Benefit of Handling Input-Triggered and Output-Triggered Suspicions Differently.</title>
+<pages>244-249</pages>
+<year>2002</year>
+<crossref>conf/srds/2002</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2002.1180193</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RELDIS.2002.1180193</ee>
+<url>db/conf/srds/srds2002.html#Charron-BostDS02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/DefagoP02" mdate="2015-01-09">
+<author>Xavier D&#233;fago</author>
+<author>Fernando Pedone</author>
+<title>Message from the RCDS Co-Chairs.</title>
+<pages>370-</pages>
+<year>2002</year>
+<crossref>conf/srds/2002</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds2002.html#DefagoP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icoin/UrbanDS01" mdate="2017-06-04">
+<author>P&#233;ter Urb&#225;n</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Neko: A Single Environment to Simulate and Prototype Distributed Algorithms.</title>
+<pages>503-511</pages>
+<year>2001</year>
+<crossref>conf/icoin/2001</crossref>
+<booktitle>ICOIN</booktitle>
+<ee>https://doi.org/10.1109/ICOIN.2001.905471</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICOIN.2001.905471</ee>
+<url>db/conf/icoin/icoin2001.html#UrbanDS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/prdc/SergentDS01" mdate="2017-06-05">
+<author>Nicole Sergent</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Impact of a Failure Detection Mechanism on the Performance of Consensus.</title>
+<pages>137-145</pages>
+<year>2001</year>
+<crossref>conf/prdc/2001</crossref>
+<booktitle>PRDC</booktitle>
+<ee>https://doi.org/10.1109/PRDC.2001.992690</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/PRDC.2001.992690</ee>
+<url>db/conf/prdc/prdc2001.html#SergentDS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/UrbanDS01" mdate="2017-06-05">
+<author>P&#233;ter Urb&#225;n</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Chasing the FLP Impossibility Result in a LAN or How Robust Can a Fault Tolerant Server Be?.</title>
+<pages>190-193</pages>
+<year>2001</year>
+<crossref>conf/srds/2001</crossref>
+<booktitle>SRDS</booktitle>
+<ee>https://doi.org/10.1109/RELDIS.2001.970767</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RELDIS.2001.970767</ee>
+<url>db/conf/srds/srds2001.html#UrbanDS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/Charron-BostDS01" mdate="2017-06-05">
+<author>Bernadette Charron-Bost</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Time vs. Space in Fault-Tolerant Distributed Systems.</title>
+<pages>21-27</pages>
+<year>2001</year>
+<crossref>conf/words/2001</crossref>
+<booktitle>WORDS</booktitle>
+<ee>https://doi.org/10.1109/WORDS.2001.945109</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WORDS.2001.945109</ee>
+<url>db/conf/words/words2001.html#Charron-BostDS01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccn/UrbanDS00" mdate="2017-06-04">
+<author>P&#233;ter Urb&#225;n</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<title>Contention-aware metrics for distributed algorithms: comparison of atomic broadcast algorithms.</title>
+<pages>582-589</pages>
+<year>2000</year>
+<booktitle>ICCCN</booktitle>
+<ee>https://doi.org/10.1109/ICCCN.2000.885548</ee>
+<crossref>conf/icccn/2000</crossref>
+<url>db/conf/icccn/icccn2000.html#UrbanDS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dais/FelberDES99" mdate="2003-04-30">
+<author>Pascal Felber</author>
+<author>Xavier D&#233;fago</author>
+<author>Patrick Th. Eugster</author>
+<author>Andr&#233; Schiper</author>
+<title>Replicating CORBA objects: a marriage between active and passive replication.</title>
+<year>1999</year>
+<crossref>conf/dais/1999</crossref>
+<booktitle>DAIS</booktitle>
+<pages>375-388</pages>
+<url>db/conf/dais/dais1999.html#FelberDES99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/doa/FelberDGO99" mdate="2017-06-02">
+<author>Pascal Felber</author>
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Rachid Guerraoui</author>
+<author>Philipp Oser</author>
+<title>Failure Detectors as First Class Objects.</title>
+<pages>132-141</pages>
+<year>1999</year>
+<crossref>conf/doa/1999</crossref>
+<booktitle>DOA</booktitle>
+<ee>https://doi.org/10.1109/DOA.1999.794001</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DOA.1999.794001</ee>
+<url>db/conf/doa/doa1999.html#FelberDGO99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/words/DefagoFS99" mdate="2017-06-05">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Pascal Felber</author>
+<author>Andr&#233; Schiper</author>
+<title>Optimization techniques for replicating CORBA objects.</title>
+<pages>2-8</pages>
+<year>1999</year>
+<booktitle>WORDS (Jan.)</booktitle>
+<ee>https://doi.org/10.1109/WORDS.1999.806554</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WORDS.1999.806554</ee>
+<crossref>conf/words/1999</crossref>
+<url>db/conf/words/words1999.html#DefagoFS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/DefagoSS98" mdate="2017-06-05">
+<author orcid="0000-0002-2377-205X">Xavier D&#233;fago</author>
+<author>Andr&#233; Schiper</author>
+<author>Nicole Sergent</author>
+<title>Semi-Passive Replication.</title>
+<pages>43-50</pages>
+<year>1998</year>
+<crossref>conf/srds/1998</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds98.html#DefagoSS98</url>
+<ee>https://doi.org/10.1109/RELDIS.1998.740473</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/RELDIS.1998.740473</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coots/DefagoFGG97" mdate="2003-10-01">
+<author>Xavier D&#233;fago</author>
+<author>Pascal Felber</author>
+<author>Beno&#238;t Garbinato</author>
+<author>Rachid Guerraoui</author>
+<title>Reliability with CORBA Event Channels.</title>
+<pages>237-240</pages>
+<year>1997</year>
+<crossref>conf/coots/1997</crossref>
+<booktitle>COOTS</booktitle>
+<url>db/conf/coots/coots1997.html#DefagoFGG97</url>
+</inproceedings>
+</r>
+<coauthors n="65" nc="2">
+<co c="0"><na f="a/Anceaume:Emmanuelle">Emmanuelle Anceaume</na></co>
+<co c="0"><na f="b/Bernard:Samuel">Samuel Bernard</na></co>
+<co c="0"><na f="b/Bonnet_0001:Fran=ccedil=ois">Fran&#231;ois Bonnet 0001</na></co>
+<co c="0"><na f="b/Bramas:Quentin">Quentin Bramas</na></co>
+<co c="0"><na f="c/Canepa:Davide">Davide Canepa</na></co>
+<co c="0"><na f="c/Charron=Bost:Bernadette">Bernadette Charron-Bost</na></co>
+<co c="0"><na f="c/Chong:Nak_Young">Nak Young Chong</na></co>
+<co c="0"><na f="c/Cl=eacute=ment_0002:Julien">Julien Cl&#233;ment 0002</na></co>
+<co c="1"><na f="d/D=Angelo:Gianlorenzo">Gianlorenzo D'Angelo</na></co>
+<co c="0" n="2"><na f="e/Eugster:Patrick">Patrick Eugster</na><na>Patrick Th. Eugster</na></co>
+<co c="0"><na f="f/Felber:Pascal">Pascal Felber</na></co>
+<co c="0"><na f="g/Garbinato:Beno=icirc=t">Beno&#238;t Garbinato</na></co>
+<co c="0"><na f="g/Guerraoui:Rachid">Rachid Guerraoui</na></co>
+<co c="0"><na f="h/Hassine:Ahlem_Ben">Ahlem Ben Hassine</na></co>
+<co c="0"><na f="h/Hayashibara:Naohiro">Naohiro Hayashibara</na></co>
+<co c="0"><na f="h/He:Jing">Jing He</na></co>
+<co c="0"><na f="h/He:Yanxiang">Yanxiang He</na></co>
+<co c="0"><na f="h/Heriban:Adam">Adam Heriban</na></co>
+<co c="-1"><na f="h/Higashihara:Daiki">Daiki Higashihara</na></co>
+<co c="0"><na f="h/Ho:Tu_Bao">Tu Bao Ho</na></co>
+<co c="0"><na f="h/Huynh:Quyet=Thang">Quyet-Thang Huynh</na></co>
+<co c="0" n="2"><na f="i/Iguchi=Cartigny:Julien">Julien Iguchi-Cartigny</na><na>Julien Cartigny</na></co>
+<co c="0"><na f="i/Inoguchi:Yasushi">Yasushi Inoguchi</na></co>
+<co c="0"><na f="i/Inuzuka:Nobuhiro">Nobuhiro Inuzuka</na></co>
+<co c="0"><na f="i/Izumi:Taisuke">Taisuke Izumi</na></co>
+<co c="0"><na f="j/Jia:Xiaohua">Xiaohua Jia</na></co>
+<co c="0"><na f="k/Katayama:Takuya">Takuya Katayama</na></co>
+<co c="0"><na f="k/Katayama:Yoshiaki">Yoshiaki Katayama</na></co>
+<co c="0"><na f="k/Konagaya:Akihiko">Akihiko Konagaya</na></co>
+<co c="0"><na f="l/Lee:Geunho">Geunho Lee</na></co>
+<co c="0"><na f="m/Maurer:Alexandre">Alexandre Maurer</na></co>
+<co c="0"><na f="m/Messika:St=eacute=phane">St&#233;phane Messika</na></co>
+<co c="0"><na f="n/Nakashima:Yasuhiko">Yasuhiko Nakashima</na></co>
+<co c="0"><na f="n/Nguyen:Thanh_Dang">Thanh Dang Nguyen</na></co>
+<co c="1"><na f="n/Nisse:Nicolas">Nicolas Nisse</na></co>
+<co c="0"><na f="o/Oser:Philipp">Philipp Oser</na></co>
+<co c="0"><na f="p/Parv=eacute=dy:Philippe_Raipin">Philippe Raipin Parv&#233;dy</na></co>
+<co c="0"><na f="p/Pedone:Fernando">Fernando Pedone</na></co>
+<co c="0"><na f="p/Petit:Franck">Franck Petit</na></co>
+<co c="0"><na f="p/Pham:Thanh=Trung">Thanh-Trung Pham</na></co>
+<co c="0" n="3"><na f="p/Potop=Butucaru:Maria">Maria Potop-Butucaru</na><na>Maria Gradinariu Potop-Butucaru</na><na>Maria Gradinariu</na></co>
+<co c="0"><na f="q/Qu:Wenyu">Wenyu Qu</na></co>
+<co c="0"><na f="r/Roy:Matthieu">Matthieu Roy</na></co>
+<co c="0"><na f="s/Sang:Yingpeng">Yingpeng Sang</na></co>
+<co c="0"><na f="s/Satou:Kenji">Kenji Satou</na></co>
+<co c="0"><na f="s/Schiper:Andr=eacute=">Andr&#233; Schiper</na></co>
+<co c="0"><na f="s/Sergent:Nicole">Nicole Sergent</na></co>
+<co c="0"><na f="s/Shen:Hong">Hong Shen</na></co>
+<co c="0"><na f="s/Souissi:Samia">Samia Souissi</na></co>
+<co c="0" n="2"><na f="s/Sun:Daniel">Daniel Sun</na><na>Wei Sun 0004</na></co>
+<co c="0"><na f="t/Takizawa:Makoto">Makoto Takizawa</na></co>
+<co c="0"><na f="t/Tixeuil:S=eacute=bastien">S&#233;bastien Tixeuil</na></co>
+<co c="0"><na f="t/Tsuji:Shin=ichi">Shin'ichi Tsuji</na></co>
+<co c="0"><na f="u/Urb=aacute=n:P=eacute=ter">P&#233;ter Urb&#225;n</na></co>
+<co c="0"><na f="v/Villain:Vincent">Vincent Villain</na></co>
+<co c="0"><na f="w/Wada:Koichi">Koichi Wada</na></co>
+<co c="0"><na f="w/Wiesmann:Matthias">Matthias Wiesmann</na></co>
+<co c="0"><na f="x/Xiong:Naixue">Naixue Xiong</na></co>
+<co c="0"><na f="y/Yamashita:Masafumi">Masafumi Yamashita</na></co>
+<co c="0" n="2"><na f="y/Yang:Laurence_T=">Laurence T. Yang</na><na>Laurence Tianruo Yang</na></co>
+<co c="0"><na f="y/Yang:Yan">Yan Yang</na></co>
+<co c="0"><na f="y/Yared:Rami">Rami Yared</na></co>
+<co c="0"><na f="y/Yu:Chen">Chen Yu</na></co>
+<co c="0"><na f="z/Zhang:Yuanyuan">Yuanyuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zonghua">Zonghua Zhang</na></co>
+</coauthors>
+</dblpperson>
+

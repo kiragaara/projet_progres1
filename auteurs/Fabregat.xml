@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Generós Ortet Fabregat" n="1">
+<person key="homepages/123/1203" mdate="2012-12-17">
+<author>Generós Ortet Fabregat</author>
+</person>
+<r><article key="journals/cbsn/PichastorNCFPRR02" mdate="2017-05-26">
+<author>Rosa Ana Peris Pichastor</author>
+<author>Miguel Ángel Gimeno Navarro</author>
+<author>Daniel Pinazo Calatayud</author>
+<author>Generós Ortet Fabregat</author>
+<author>Virginia Elena Carrero Planes</author>
+<author>María Luisa Sanchiz Ruiz</author>
+<author>Manuel Ignacio Ibáñez Ribes</author>
+<title>Online Chat Rooms: Virtual Spaces of Interaction for Socially Oriented People.</title>
+<pages>43-51</pages>
+<year>2002</year>
+<volume>5</volume>
+<journal>Cyberpsy., Behavior, and Soc. Networking</journal>
+<number>1</number>
+<ee>https://doi.org/10.1089/109493102753685872</ee>
+<url>db/journals/cbsn/cbsn5.html#PichastorNCFPRR02</url>
+</article>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="c/Calatayud:Daniel_Pinazo">Daniel Pinazo Calatayud</na></co>
+<co c="0"><na f="n/Navarro:Miguel_=Aacute=ngel_Gimeno">Miguel Ángel Gimeno Navarro</na></co>
+<co c="0"><na f="p/Pichastor:Rosa_Ana_Peris">Rosa Ana Peris Pichastor</na></co>
+<co c="0"><na f="p/Planes:Virginia_Elena_Carrero">Virginia Elena Carrero Planes</na></co>
+<co c="0"><na f="r/Ribes:Manuel_Ignacio_Ib=aacute==ntilde=ez">Manuel Ignacio Ibáñez Ribes</na></co>
+<co c="0"><na f="r/Ruiz:Mar=iacute=a_Luisa_Sanchiz">María Luisa Sanchiz Ruiz</na></co>
+</coauthors>
+</dblpperson>
